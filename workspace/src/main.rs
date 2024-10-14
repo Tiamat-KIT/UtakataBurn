@@ -1,3 +1,5 @@
+mod grayscale;
+
 use burn::tensor::{
     self, backend::Backend, Tensor
 };
